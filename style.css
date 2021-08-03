@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: silver;
+}
+
+input{
+    width: 100px;
+    border-radius: 45px;
+    border-color: aqua;
+    background-color: black;
+    color: silver;
+    text-align: center;
+}
+
+button{
+    background-color: black;
+    border-color: aqua;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    color: silver;
+    font-size: large;
+}
